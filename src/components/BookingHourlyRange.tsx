@@ -4,7 +4,7 @@ import React, { useState,useEffect } from 'react';
 // import {bookingTimeSlots} from '../../src/data/bookingTimeSlots'
 import { bookingTimeSlots } from '@/data/bookingTimeSlots';
 
-const BookingHourlyRange = ({ onRangeSelect }) => {
+const BookingHourlyRange = () => {
 
   const [tabDateWise, setTabDateWise] = useState(0);
   const [timeActive, setTimeActive] = useState(1000);
