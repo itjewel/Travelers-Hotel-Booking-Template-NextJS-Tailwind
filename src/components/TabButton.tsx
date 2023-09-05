@@ -1,6 +1,6 @@
 // TabButton.js
 
-const TabButton = ({ activeTab, onChange }) => {
+const TabButton = ({ activeTab, onChange }: {activeTab:string; onChange:string}) => {
   return (    
     <div className="flex">
       <button
