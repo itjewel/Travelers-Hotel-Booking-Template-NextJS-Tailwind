@@ -14,10 +14,7 @@ const PageAddListing9: FC<PageAddListing9Props> = () => {
   const [activeTab, setActiveTab] = useState('daily');
 
 
-  const handleRangeSelect = (range:any) => {
-    console.log('Selected range:', range);
-    // Handle the range data accordingly
-  };
+
 
 
   return (
@@ -50,7 +47,7 @@ const PageAddListing9: FC<PageAddListing9Props> = () => {
       {activeTab === 'daily' ? (
         <DailyDatePicker />
       ) : (
-        <BookingHourlyRange onRangeSelect={handleRangeSelect} />
+        <BookingHourlyRange  />
       )}
       
     </>
