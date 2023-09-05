@@ -1,6 +1,11 @@
 // TabButton.js
+interface Props {
+  activeTab: string;
+  onChange: string;
+}
 
-const TabButton = (activeTab:any onChange:any) => {
+const TabButton: NextPage<Props> = (props) => {
+  const { activeTab,onChange } = props;
   return (    
     <div className="flex">
       <button
