@@ -1,10 +1,9 @@
+# Hotel booking website
 
-
-# Olaven Hotel booking website
-
-This is a hotel booking website that allows our potential users to book hotels, and rooms, and host their house/flat/hotel. 
-
-
+If you need any queries or want to hire me please inform me by \
+↪️ Email: md.jewelmia52@gmail.com \
+↪️ Skype: jewel_farazi \
+↪️ WhatsApp: +8801745519614
 
 
 ## Demo
