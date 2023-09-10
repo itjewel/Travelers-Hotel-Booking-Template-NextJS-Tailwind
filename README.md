@@ -33,12 +33,6 @@ If you need any queries or want to hire me please inform me by \
 - Chatting with your partners
 
 
-## License
-- By contributing to this project, you agree to the license terms and conditions
-- You will not disclose any information about this project.
-- If you choose to ignore the above guidelines and engage in actions that mislead, harm, or disrupt the project, we reserve the right to take appropriate actions.
-
-[MIT](https://github.com/chaejimmy/ideal-guide/blob/main/LICENSE)
 
 ## Contributing (only invited)
 
